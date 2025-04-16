@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymMemSystem2", "GymMemSystem2\GymMemSystem2.csproj", "{AD320BB5-7B75-47F0-96DA-6B8B25C8AFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAndLogics", "DataAndLogics\DataAndLogics.csproj", "{89DD78E8-A45E-4352-910B-6AEFF384A570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD320BB5-7B75-47F0-96DA-6B8B25C8AFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD320BB5-7B75-47F0-96DA-6B8B25C8AFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD320BB5-7B75-47F0-96DA-6B8B25C8AFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD320BB5-7B75-47F0-96DA-6B8B25C8AFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89DD78E8-A45E-4352-910B-6AEFF384A570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DD78E8-A45E-4352-910B-6AEFF384A570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DD78E8-A45E-4352-910B-6AEFF384A570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DD78E8-A45E-4352-910B-6AEFF384A570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F99222E-92D5-496C-8E74-B9CB71E2C994}
+	EndGlobalSection
+EndGlobal
